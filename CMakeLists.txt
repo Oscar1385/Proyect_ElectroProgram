@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
-project(PROYECTOSEGUNDOPARCIAL)
+project(vector_GaussJordan)
 
 set(CMAKE_CXX_STANDARD 20)
-set(Headers ElementosElectronica.h Resistencias.h OpAmp.h)
-add_executable(PROYECTOSEGUNDOPARCIAL ${PROJECT_SOURCE_DIR}/main.cpp ElementosElectronica.cpp Resistencias.cpp OpAmp.cpp Kirchhoff.cpp Kirchhoff.h)
+
+add_executable(vector_GaussJordan main.cpp)
