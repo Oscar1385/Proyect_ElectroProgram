@@ -11,6 +11,8 @@ using namespace std;
 
 //Variables Universales
 int Opcion1=0;
+
+//Funciones Universales
 char continuaroNo='S';
 void fillVector(vector<Fuentes>&); //Llenar vector con objeto 'Fuentes'
 void fillVectorResistenciasSerie(vector<Resistencias>&);
