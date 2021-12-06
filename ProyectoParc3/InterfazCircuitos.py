@@ -1,3 +1,11 @@
+
+/*
+ * PROGRAMA ELECTRÓNICA_Parcial3
+ * Autores: García Piña José de Jesús, Ortega Penagos Oscar Eduardo, Caballero López Alonso
+ * 6/12/2021
+ */
+
+
 import tkinter
 import turtle
 from tkinter import *
