@@ -4,8 +4,6 @@ from tkinter import *
 from tkinter import messagebox, ttk
 from PIL import ImageTk, Image
 from turtle import *
-import tools
-from tools import *
 
 ventana = Tk()
 ventana.title("Circuitos electricos")
