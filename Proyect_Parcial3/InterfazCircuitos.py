@@ -1,3 +1,8 @@
+
+#PROGRAMA ELECTRÓNICA
+ #Autores: García Piña José de Jesús, Ortega Penagos Oscar Eduardo, Caballero López Alonso
+ #20/10/2021
+
 import tkinter
 import turtle
 from tkinter import *
